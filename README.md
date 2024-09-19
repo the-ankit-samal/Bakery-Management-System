@@ -32,9 +32,9 @@ This application basically deals with the sales and product management of a bake
 
 1. Open the link and enter username and password
 ### Web Login
-	Username : aparna.d	Password : welcome@1
+	Username : Ankit Password : welcome@1
 ### Django Admin
-	Username : admin1 password : admin1
+	Username : Ankit password : welcome@1
 
 2. The navigation bar at the top has all the functionalities required
 	
